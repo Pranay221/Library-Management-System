@@ -1,0 +1,4 @@
+db-sqlite3
+tkinter
+Pillow==2.2.2
+Pillow
